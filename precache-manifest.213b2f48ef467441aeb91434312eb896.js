@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "14f6c7d9d9133b6a5c9fcd172360289b",
+    "revision": "29fdde36bcb76fe4f807b8483f2442dc",
     "url": "/SuperTem/index.html"
   },
   {
@@ -8,7 +8,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/SuperTem/static/css/2.5c17b9f1.chunk.css"
   },
   {
-    "revision": "87df684fa4af76b55ce3",
+    "revision": "916caab41d15278dd018",
     "url": "/SuperTem/static/css/main.b6b3bacf.chunk.css"
   },
   {
@@ -20,8 +20,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/SuperTem/static/js/2.4307869d.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "87df684fa4af76b55ce3",
-    "url": "/SuperTem/static/js/main.510e065c.chunk.js"
+    "revision": "916caab41d15278dd018",
+    "url": "/SuperTem/static/js/main.6826a88d.chunk.js"
   },
   {
     "revision": "247f1207b07d22d17a2a",
