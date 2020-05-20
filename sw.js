@@ -1,6 +1,6 @@
 const cacheName = 'SuperTems-V1'
 const staticAssets = [
-    './',
+    './SuperTem',
     './manifest.webmanifest',
 
 ]

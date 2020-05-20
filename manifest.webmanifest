@@ -1,7 +1,7 @@
 {
     "name": "Super Tem Tem",
     "short_name": "Supert Tem",
-    "start_url": "./SuperTem",
+    "start_url": ".",
     "display": "standalone",
     "background_color": "#450278",
     "theme_color": "#450278",
